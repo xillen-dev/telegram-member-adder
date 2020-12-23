@@ -1,4 +1,4 @@
-# telegram-member-adder
+# telegram-member-adder using telethon
 telegram member adder script to add python sessions to tg channels :D
 
 1- install python in your system from python.org
